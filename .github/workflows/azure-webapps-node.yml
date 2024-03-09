@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+h1{
+color:black;
+font-size:400%;
+text-align:center;
+}
+
+.type1{
+width:30%;
+display:block;
+margin:0px auto;
+}
+
+body{
+background-color:yellow;
+}
+</style>
+</head>
+<body>
+<br><br><br>
+<h1>OUR MOTHER<br>EARTH</h1>
+<div>
+<img src="earth.jpg" class="type1"></div>
+</body>
+</html>
